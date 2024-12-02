@@ -4,7 +4,7 @@
 console.log(
   "What worked well for you over the last 9 weeks that aided in your learning process?"
 );
-console.log("");
+console.log("Hands-on coding exercises and the ability to debug and test my code worked really well. The project-based learning allowed me to apply concepts immediately.");
 
 // 2. Write a console.log() statement that answers the following question: What would you
 // change about the course?
