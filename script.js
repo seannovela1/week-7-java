@@ -16,7 +16,7 @@ console.log("I would include more interactive quizzes or challenges to reinforce
 // what you expected to learn in this course?
 
 console.log("Did you learn what you expected to learn in this course?");
-console.log("");
+console.log("Yes, I learned the fundamentals of programming and web development, including HTML, CSS, and JavaScript. However, I expected to go deeper into frameworks and libraries.");
 
 // 4. Write a console.log() statement that answers the following question: What concepts
 // were new to you and what concepts had you encountered already in the past?
