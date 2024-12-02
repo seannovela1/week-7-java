@@ -10,7 +10,7 @@ console.log("Hands-on coding exercises and the ability to debug and test my code
 // change about the course?
 
 console.log("What would you change about the course?");
-console.log("");
+console.log("I would include more interactive quizzes or challenges to reinforce key concepts throughout the course.");
 
 // 3. Write a console.log() statement that answers the following question: Did you learn
 // what you expected to learn in this course?
