@@ -24,4 +24,4 @@ console.log("Yes, I learned the fundamentals of programming and web development,
 console.log(
   "What concepts were new to you and what concepts had you encountered already in the past?"
 );
-console.log("");
+console.log("The concept of asynchronous JavaScript (Promises, async/await) was new to me. I had previously worked with basic HTML, CSS, and some JavaScript, but hadn't delved into these advanced topics.");
